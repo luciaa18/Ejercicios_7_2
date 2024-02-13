@@ -42,7 +42,7 @@ namespace Ejercicios_7_2
             {TipoAminoacido. Tirosina, "Tirosina" },
             {TipoAminoacido. Valina, "Valina" },
         };
-
+aaaaaaaaaaaaaa
 
 
 
