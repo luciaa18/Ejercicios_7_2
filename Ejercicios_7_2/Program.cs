@@ -7,7 +7,6 @@ namespace Ejercicios_7_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //hola
         }
     }
 }
